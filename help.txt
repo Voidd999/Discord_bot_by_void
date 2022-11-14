@@ -1,0 +1,41 @@
+  anime       this command sends a random post from the r/anime subreddit
+  aquote      this command sends a random quote from an anime
+  toss        this command flips the coin for you
+  uselessfact this command sends a random useless fact
+  wave        
+  wink      
+  pfp         this command displays the mentioned users's profile picture
+  ping        this command shows the latency
+  roll        this command rolls the dice for you
+  dm          this command DM's the mentioned user
+  giveaway    
+  covid       this commands sends covid 19 details of the desired country
+
+
+
+
+  connect     Connect the player
+  disconnect  Destroy the player
+  equalizer   Set equalizer
+  loop        Set loop to `NONE`, `CURRENT` or `PLAYLIST`
+  nowplaying  What's playing now?
+  pause       Pause the player
+  play        Play or add song to queue
+  queue       Player's current queue
+  resume      Resume the player
+  seek        Seek the player backward or forward
+  skip        Skip currently playing song
+  volume      Set volume
+
+  joke        this command sends a joke
+  meme        this command sends a random meme from a subreddit
+  bruh        this command turns anyone into a "bruh moment"
+  roast       this command roasts you or whom you wish
+  gay         this commands tells you your gay percentage
+  yomama      this commands sends a yo mama joke
+
+
+  clear       
+  hello       
+  help        Shows this message
+  invite      this command sends the link to invite this bot in your guild

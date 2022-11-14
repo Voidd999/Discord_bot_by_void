@@ -1,0 +1,9 @@
+giveaway_role: "Giveaway"
+# How many seconds until the setup cancels due to no information being sent
+setup_timeout: 20.0
+
+# The emoji the user has to react with to enter the giveaway
+react_emoji: ":cookie:"
+
+# True/False - Sends a message with a ping letting the winner know that they won.
+ping_winner_message: True
